@@ -1,0 +1,21 @@
+.correct {
+    color: green;
+  }
+  
+  .incorrect {
+    color: red;
+    text-decoration: underline;
+  }
+.main{
+    text-align: center;
+    height: 300px;
+    width: 600px;
+    background-color: lightgray;
+}
+h1{
+    text-align: center;
+}
+.timerLabel{
+    height: 130px;
+   
+}
